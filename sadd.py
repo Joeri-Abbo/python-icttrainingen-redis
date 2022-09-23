@@ -1,5 +1,4 @@
-import redis
+from classes import helper
 
-quick24X7 = redis.Redis(host='localhost', port=6379, db=0)
 if __name__ == '__main__':
-    print(quick24X7.sadd('vegetables_instock', 'carrot', 'cabbage', 'capsicum'))
+    print(helper.get_redis_connection().sadd('vegetables_instock', 'carrot', 'cabbage', 'capsicum'))
