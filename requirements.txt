@@ -11,7 +11,7 @@ Deprecated==1.2.13
 Faker==14.2.1
 flake8==5.0.4
 grapheme==0.6.0
-h11==0.13.0
+h11==0.14.0
 idna==3.3
 iniconfig==1.1.1
 jmespath==1.0.1
