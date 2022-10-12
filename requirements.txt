@@ -8,7 +8,7 @@ botocore==1.27.89
 certifi==2022.9.24
 charset-normalizer==2.1.1
 Deprecated==1.2.13
-Faker==15.0.0
+Faker==15.1.0
 flake8==5.0.4
 grapheme==0.6.0
 h11==0.14.0
