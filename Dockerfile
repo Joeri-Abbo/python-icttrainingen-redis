@@ -1,4 +1,4 @@
-FROM python:3.11.0rc2-alpine3.15
+FROM python:3.11.0-alpine3.15
 
 RUN apk add mariadb-dev gcc libc-dev
 
