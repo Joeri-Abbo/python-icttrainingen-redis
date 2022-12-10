@@ -20,7 +20,7 @@ mysql-connector-python==8.0.31
 outcome==1.2.0
 packaging==22.0
 pluggy==1.0.0
-protobuf==4.21.10
+protobuf==4.21.11
 py==1.11.0
 pycodestyle==2.10.0
 pyflakes==3.0.1
