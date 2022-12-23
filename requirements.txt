@@ -1,5 +1,5 @@
 about-time==4.2.1
-alive-progress==2.4.1
+alive-progress==3.0.0
 async-generator==1.10
 async-timeout==4.0.2
 attrs==22.1.0
