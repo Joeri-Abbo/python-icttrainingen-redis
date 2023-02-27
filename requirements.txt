@@ -28,7 +28,7 @@ pyparsing==3.0.9
 PySocks==1.7.1
 pytest==7.2.1
 python-dateutil==2.8.2
-python-dotenv==0.21.1
+python-dotenv==1.0.0
 pywatchman==1.4.1
 PyYAML==6.0
 redis==4.5.1
