@@ -26,7 +26,7 @@ pycodestyle==2.10.0
 pyflakes==3.0.1
 pyparsing==3.0.9
 PySocks==1.7.1
-pytest==7.2.2
+pytest==7.3.0
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pywatchman==1.4.1
