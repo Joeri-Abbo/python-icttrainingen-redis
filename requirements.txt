@@ -18,7 +18,7 @@ jmespath==1.0.1
 mccabe==0.7.0
 mysql-connector-python==8.0.32
 outcome==1.2.0
-packaging==23.0
+packaging==23.1
 pluggy==1.0.0
 protobuf==4.22.1
 py==1.11.0
