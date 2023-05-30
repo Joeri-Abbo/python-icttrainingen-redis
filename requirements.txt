@@ -7,7 +7,7 @@ boto3==1.26.141
 botocore==1.29.141
 certifi==2023.5.7
 charset-normalizer==3.1.0
-Deprecated==1.2.13
+Deprecated==1.2.14
 Faker==18.9.0
 flake8==6.0.0
 grapheme==0.6.0
