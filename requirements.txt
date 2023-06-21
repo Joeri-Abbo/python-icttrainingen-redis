@@ -8,7 +8,7 @@ boto3==1.26.155
 certifi==2023.5.7
 charset-normalizer==3.1.0
 Deprecated==1.2.14
-Faker==18.10.1
+Faker==18.11.1
 flake8==6.0.0
 grapheme==0.6.0
 h11==0.14.0
