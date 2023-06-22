@@ -19,7 +19,7 @@ mccabe==0.7.0
 mysql-connector-python==8.0.33
 outcome==1.2.0
 packaging==23.1
-pluggy==1.0.0
+pluggy==1.2.0
 protobuf==4.23.3
 py==1.11.0
 pycodestyle==2.10.0
