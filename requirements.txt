@@ -16,7 +16,7 @@ idna==3.4
 iniconfig==2.0.0
 jmespath==1.0.1
 mccabe==0.7.0
-mysql-connector-python==8.0.33
+mysql-connector-python==8.1.0
 outcome==1.2.0
 packaging==23.1
 pluggy==1.2.0
