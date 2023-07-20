@@ -43,7 +43,7 @@ tomli==2.0.1
 tqdm==4.65.0
 trio==0.22.2
 trio-websocket==0.10.3
-urllib3==2.0.3
+urllib3==2.0.4
 webdriver-manager==3.8.6
 wrapt==1.15.0
 wsproto==1.2.0
