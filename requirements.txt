@@ -4,7 +4,7 @@ async-generator==1.10
 async-timeout==4.0.3
 attrs==23.1.0
 botocore==1.31.49
-boto3==1.28.48
+boto3==1.28.49
 certifi==2023.7.22
 charset-normalizer==3.2.0
 Deprecated==1.2.14
