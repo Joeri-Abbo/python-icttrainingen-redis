@@ -3,8 +3,8 @@ alive-progress==3.1.4
 async-generator==1.10
 async-timeout==4.0.3
 attrs==23.1.0
-botocore==1.31.59
 boto3==1.28.61
+botocore==1.31.61
 certifi==2023.7.22
 charset-normalizer==3.3.0
 Deprecated==1.2.14
